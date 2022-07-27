@@ -1,0 +1,11 @@
+Model Information:
+* title:	Public Transit Bus
+* source:	https://sketchfab.com/3d-models/public-transit-bus-a98feaf5731b48feb0434896a94fdc4e
+* author:	magi (https://sketchfab.com/magi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Public Transit Bus" (https://sketchfab.com/3d-models/public-transit-bus-a98feaf5731b48feb0434896a94fdc4e) by magi (https://sketchfab.com/magi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
