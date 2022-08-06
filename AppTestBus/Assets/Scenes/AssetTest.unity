@@ -1445,6 +1445,7 @@ GameObject:
   - component: {fileID: 1224129773}
   - component: {fileID: 1224129772}
   - component: {fileID: 1224129771}
+  - component: {fileID: 1224129775}
   m_Layer: 0
   m_Name: RightHand Controller
   m_TagString: Untagged
@@ -1953,6 +1954,21 @@ MonoBehaviour:
     m_Reference: {fileID: 875253871413052681, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   m_ButtonPressPoint: 0.5
+--- !u!114 &1224129775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224129769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fb0857d425edfa4a824bd663485a514, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ourHandPrefab: {fileID: 4514520281178812000, guid: 81af6e4d033881e439cae654cd4d81fd,
+    type: 3}
+  ourControllerCharacteristics: 576
 --- !u!1 &1271597326 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1383359407464663601, guid: a5d7c3405e4bb994fb2105458f321f8c,
@@ -2672,6 +2688,7 @@ GameObject:
   - component: {fileID: 1976340266}
   - component: {fileID: 1976340265}
   - component: {fileID: 1976340264}
+  - component: {fileID: 1976340268}
   m_Layer: 0
   m_Name: LeftHand Controller
   m_TagString: Untagged
@@ -2701,7 +2718,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1976340262}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e988983f96fe1dd48800bcdfc82f23e9, type: 3}
   m_Name: 
@@ -3180,6 +3197,21 @@ MonoBehaviour:
     m_Reference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   m_ButtonPressPoint: 0.5
+--- !u!114 &1976340268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976340262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fb0857d425edfa4a824bd663485a514, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ourHandPrefab: {fileID: 4755853867336561421, guid: c1ccc0f040322e14e903511b6b194c72,
+    type: 3}
+  ourControllerCharacteristics: 320
 --- !u!1 &1985617486
 GameObject:
   m_ObjectHideFlags: 0
